@@ -9,3 +9,4 @@ Po zaznaczeniu krawędzi kliknięciem aktywują sie odpowiedznie przyciski ogran
 
 # Usuwanie wielokąta i wierzchołka 
 Po zaznaczeniu wielokąta lub wierzchołka kliknąć DELETE
+* ![plot](./Screenshot_1.png)
